@@ -1,4 +1,5 @@
-![Hey there, I'm Anhad. A developer, a maker and tech enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+<h1 align="left">Hey guys 🐣, I'm Anhad Parashar</h1>
+
 
 <h3 align="left">Currently a student at Dayalbagh education institute pursuing Btech...also a musician xD..</h3>
 
