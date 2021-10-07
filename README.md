@@ -1,4 +1,5 @@
-<h1 align="left">Hey guys 🐣, I'm Anhad Parashar</h1>
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
 <h3 align="left">Currently a student at Dayalbagh education institute pursuing Btech...also a musician xD..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07anhad&label=Profile%20views&color=0e75b6&style=flat" alt="07anhad" /> </p>
