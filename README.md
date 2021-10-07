@@ -27,8 +27,8 @@
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=K1RA-16&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=K1RA-16&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=07anhad&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=07anhad&theme=tokyonight" />
 	
   <!--<img width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutikab12&layout=compact&text_color=daf7dc&bg_color=151515" />-->
   
@@ -36,7 +36,7 @@
 </p>
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=K1RA-16&show_icons=true&locale=en&layout=compact&theme=tokyonight" />	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=07anhad&show_icons=true&locale=en&layout=compact&theme=tokyonight" />	
   
   
 
