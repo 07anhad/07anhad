@@ -1,4 +1,4 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hey there, I'm Anhad. I'm a student intrested in programming, a maker and tech enthusiast. Check out my work](https://github.com/07anhad/07anhad/raw/master/bio.gif)
 
 <h3 align="left">Currently a student at Dayalbagh education institute pursuing Btech...also a musician xD..</h3>
 
