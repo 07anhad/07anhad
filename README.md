@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07anhad" alt="07anhad" /></a> </p>
 
-## Spotify Playing 🎧
+<!-- 
+## Spotify Playing 🎧 -->
 
 
 <!-- [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=6ecgmt4zopn1enw6au2y3lpwp&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
