@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07anhad" alt="07anhad" /></a> </p>
 
+## Spotify Playing 🎧
+
+
+[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=6ecgmt4zopn1enw6au2y3lpwp&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+-----
+
 <p align="left"> <a href="https://twitter.com/karvaan5" target="blank"><img src="https://img.shields.io/twitter/follow/karvaan5?logo=twitter&style=for-the-badge" alt="karvaan5" /></a> </p>
 
 - 🌱 I’m currently learning **C++,C,Javascript**
