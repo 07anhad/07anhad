@@ -53,3 +53,9 @@
   <img src="https://github.com/07anhad/07anhad/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+##Snake eating my contribution chart
+
+![snake gif](https://github.com/07anhad/07anhad/blob/output/github-contribution-grid-snake.gif)
+
+
+
