@@ -49,7 +49,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=07anhad&show_icons=true&locale=en&layout=compact&theme=tokyonight" />	
 </p>
 
-<center><b>Snake eating my contribution chart</b></center
+<center><h1><b>Snake eating my contribution chart</b></h1></center>
 
 <p align="center">
   <img src="https://github.com/07anhad/07anhad/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
