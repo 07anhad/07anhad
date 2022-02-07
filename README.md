@@ -1,4 +1,4 @@
-<h1 align="left">Hey guys 🌝, I'm Anhad Parashar</h1>
+<h1 align="left">Hey guys🤓, I'm Anhad Parashar</h1>
 
 
 <h3 align="left">Currently a student at Dayalbagh education institute pursuing Btech...also a musician xD..</h3>
